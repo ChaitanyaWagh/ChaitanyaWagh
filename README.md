@@ -38,11 +38,7 @@ I'm a Senior Software Developer with a passion for Machine Learning and Natural 
 - Hyperparameter Optimization
 - AWS SageMaker
 
-![Skills GIF](https://media.giphy.com/media/l3vRk3dyL2MOC4u5m/giphy.gif)
-
 ## 🚀 Projects
-
-![AWS GIF](https://media.giphy.com/media/xUPGcn3JQJO1cRxl6u/giphy.gif)
 
 ### [Walmart - Customer Purchase Behavior Analysis](https://github.com/ChaitanyaWagh/Walmart)
 Analyzed spending patterns between male and female customers during Black Friday, uncovering significant differences.
@@ -50,8 +46,6 @@ Key highlights:
 - Applied statistical techniques, including confidence intervals and the Central Limit Theorem.
 - Conducted exploratory data analysis using histograms and box plots.
 - Identified spending disparities of USD 703.96 more by men per transaction.
-
-![Data Analysis GIF](https://media.giphy.com/media/3o7btOdVdy4xRp8S3m/giphy.gif)
 
 ## 🏆 Achievements
 - **Best Paper Presentation Award** for the publication titled *"Epidemic Peak for COVID-19 in India 2020"* in the Journal of Solid State Technology (SCI Scopus Indexed Journal), Volume 63 No. 2 (2020).
@@ -66,5 +60,3 @@ Bachelor of Engineering (B.Tech) in Computer Science - 8.01 CGPA (2021)
 - 📧 [cwagh12@gmail.com](mailto:cwagh12@gmail.com)
 
 Feel free to check out my repositories and reach out for collaborations or inquiries! 🚀
-
-![Thank You GIF](https://media.giphy.com/media/l3vRjLsRu8cO3D4mI/giphy.gif)
