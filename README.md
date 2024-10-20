@@ -56,7 +56,7 @@ Key highlights:
 Bachelor of Engineering (B.Tech) in Computer Science - 8.01 CGPA (2021)
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/cwagh12)
+- [LinkedIn]([https://www.linkedin.com/in/chaitanya-wagh-88975b190])
 - 📧 [cwagh12@gmail.com](mailto:cwagh12@gmail.com)
 
 Feel free to check out my repositories and reach out for collaborations or inquiries! 🚀
