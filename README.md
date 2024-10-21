@@ -40,12 +40,20 @@ I'm a Senior Software Developer with a passion for Machine Learning and Natural 
 
 ## 🚀 Projects
 
-### [Walmart - Customer Purchase Behavior Analysis](https://github.com/ChaitanyaWagh/Walmart)
+### [Walmart - Customer Purchase Behavior Analysis](https://github.com/ChaitanyaWagh/Walmart-Confidence-Interval-and-CLT)
 Analyzed spending patterns between male and female customers during Black Friday, uncovering significant differences.
 Key highlights:
 - Applied statistical techniques, including confidence intervals and the Central Limit Theorem.
 - Conducted exploratory data analysis using histograms and box plots.
 - Identified spending disparities of USD 703.96 more by men per transaction.
+
+### [Yulu - Hypothesis Testing](https://github.com/ChaitanyaWagh/Yulu-Hypothesis-Testing)
+Analyzed factors influencing demand for shared electric cycles, revealing significant impacts from working days, seasons, and weather.
+Key highlights:
+- Applied statistical techniques, including t-tests and Kruskal-Wallis tests, with p-values indicating significant effects.
+- Conducted exploratory data analysis using histograms and KDE plots to visualize temperature, humidity, and rental counts.
+- Identified that working days led to a statistically significant increase in rentals, with a T-statistic of -2.45 and a P-value of 0.0143.
+
 
 ## 🏆 Achievements
 - **Best Paper Presentation Award** for the publication titled *"Epidemic Peak for COVID-19 in India 2020"* in the Journal of Solid State Technology (SCI Scopus Indexed Journal), Volume 63 No. 2 (2020).
